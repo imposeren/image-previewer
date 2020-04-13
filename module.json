@@ -7,8 +7,8 @@
 	"scripts": ["./image-previewer.js"],
 	"styles": ["./image-previewer.css"],
 	"packs": [],
-    "url": "https://github.com/syl3r86/image-previewer",
-    "manifest": "https://raw.githubusercontent.com/syl3r86/image-previewer/master/module.json",
-    "download": "https://github.com/syl3r86/image-previewer/archive/master.zip",
+    "url": "https://github.com/imposeren/image-previewer",
+    "manifest": "https://raw.githubusercontent.com/imposeren/image-previewer/master/module.json",
+    "download": "https://github.com/imposeren/image-previewer/archive/master.zip",
     "minimumCoreVersion": "0.4.4"
 }
